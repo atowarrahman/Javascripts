@@ -1,0 +1,10 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.anim{
+    color: rgb(214, 226, 43);
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: 1.2;
+}
